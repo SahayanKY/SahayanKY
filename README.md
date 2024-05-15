@@ -1,6 +1,6 @@
 # SahayanKY
-- 量子化学計算とか流体解析とかをやってます
-- 最近はもっぱらpythonとかShellScriptを書いています（が、privateリポジトリの分が下では反映されてないですね(´・ω・｀)
+- 量子化学計算とか流体解析とか統計力学とかをやってます
+- 最近はもっぱらpythonとかShellScriptを書いています
 
 # Summary
 [![](https://raw.githubusercontent.com/SahayanKY/SahayanKY/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
